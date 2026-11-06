@@ -1,0 +1,8 @@
+FAIL  examples/bad-robots.txt:1: rule 'Disallow' appears before any User-agent group
+FAIL  examples/bad-robots.txt:3: unknown directive 'Banana'
+FAIL  examples/bad-robots.txt:4: Disallow: / blocks the whole site for every crawler
+FAIL  examples/bad-robots.txt:5: User-agent '*' already has a group
+FAIL  examples/bad-robots.txt:7: Sitemap is not a URL
+FAIL  examples/bad-robots.txt:8: Crawl-delay is not a number
+FAIL  examples/bad-robots.txt:9: not a field: value line — expected 'Directive: value'
+1 checked, 0 ok, 7 problem(s)

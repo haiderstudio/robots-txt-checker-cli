@@ -1,0 +1,3 @@
+# This site is closed to every crawler on purpose.
+User-agent: *
+Disallow: /

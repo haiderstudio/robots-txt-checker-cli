@@ -1,0 +1,9 @@
+Disallow: /private/
+User-agent: *
+Banana: /x
+Disallow: /
+User-agent: *
+Disallow: /tmp/
+Sitemap: sitemap.xml
+Crawl-delay: slow
+Garbage line here
